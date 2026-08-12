@@ -1,0 +1,13 @@
+[2026-07-25 23:05:16] Starting RAG pipeline validation...
+[2026-07-25 23:05:16] PDF created at sample_test.pdf
+[2026-07-25 23:05:16] Importing vectorstore modules...
+[2026-07-25 23:06:00] Vectorstore modules imported.
+[2026-07-25 23:06:00] Running build_vectorstore...
+[2026-07-25 23:06:12] build_vectorstore done in 11.43s — 1 chunk(s) indexed.
+[2026-07-25 23:06:12] Is vectorstore populated? True
+[2026-07-25 23:06:12] Running retrieval test...
+[2026-07-25 23:06:12] Retrieved 1 document(s).
+[2026-07-25 23:06:12]   Doc 0: RAG Test Document
+This is a secret key: Antigravity-12345. The chatbot is working perfectly.
+[2026-07-25 23:06:12]   SUCCESS: Secret key found in retrieved context!
+[2026-07-25 23:06:12] Cleanup done. RAG pipeline validation PASSED!

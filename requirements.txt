@@ -1,0 +1,13 @@
+flask
+chromadb
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+transformers
+torch
+requests
+pydantic
+streamlit
+pypdf
